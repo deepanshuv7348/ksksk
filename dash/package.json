@@ -32,7 +32,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "preview": "serve -s build"
+    "preview": "serve -s build",
+    "preview": "vite preview",
+    "preview": "next start"
   },
   "eslintConfig": {
     "extends": [
